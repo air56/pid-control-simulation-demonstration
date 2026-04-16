@@ -1,0 +1,6 @@
+{
+  "name": "Control Logic Reference Hub",
+  "description": "An interactive reference and simulation tool for standard implementations of Encoders, PID Control, and State Machines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
